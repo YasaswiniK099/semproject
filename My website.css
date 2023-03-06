@@ -1,0 +1,133 @@
+.img{
+height: 75px;
+width: 200px;
+padding: 10px;
+border-radius: 50px;
+}
+#go{
+background-color: white;
+color: #323f4b;
+border-radius: 7px;
+padding: 5px;
+font-family: 'Andika';
+font-weight: bold;
+border: 0px;
+}
+#gone{
+background-color:red;
+    color: white;
+    border: 0px;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 7px;
+    font-family: 'Andika';
+}
+#gone:hover{
+background-color:  grey;
+color: red;
+border-radius: 7px;
+font-family: 'Andika';
+border: 0px;
+}
+#go:hover{
+color: darkred;
+border-radius: 7px;
+font-family: 'Andika';
+border: 0px;
+}
+.bgimg{
+background-image: url('https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg');
+background-size:cover;
+height: 600px;
+width: 1500px;
+}
+.details{
+font-family: 'Andika';
+color: white;
+padding: 20px;
+border-top-right-radius: 15px;
+border-top-left-radius: 15px;
+font-weight: bold;
+background-color: #04020a00;
+margin-top: 370px;
+}
+.hello{
+color:white;
+font-family: 'Andika';
+background-color: red;
+border-radius: 15px;
+margin: 20px;
+padding: 10px;
+font-weight: bold;
+    border: 0px;
+}
+.bgcolor{
+    background-color:white;
+
+}
+.quality{
+    height: 100px;
+    width: 100px;
+}
+.layout{
+    background-color: white;
+    width: 300px;
+    border-radius: 15px;
+    height: 250px;
+    text-align: center;
+    margin:20px;
+}
+.style{
+    font-style: italic;
+
+}
+.kits{
+    height: 200px;
+}
+.layout1{
+    background-color: white;
+    width: 250px;
+    border-radius: 15px;
+    height: 300px;
+    text-align: left;
+    margin:20px;
+}
+.change{
+    color: darkred;
+
+}
+.paybg{
+     background-color: white;
+}
+.paymenting{
+     width: 400px;
+     height: 250px;
+}
+.cstbutton{
+color: white;
+background-color: #c90202;
+width: 130px;
+height: 45px;
+border-width: 0;
+border-radius: 8px;
+margin-right: 10px;
+}
+.paycard{
+width: 50px;
+height: 50px;
+margin-right: 28px;
+}
+.contact{
+background-color: grey;
+margin-top: 40px;
+}
+.load{
+padding: 30px;
+}
+.loading{
+padding: 40px;
+margin-top: 30px;
+}
+
+
+
